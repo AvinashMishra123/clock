@@ -11,7 +11,7 @@
 
 First of all, download this repository by cloning it via **git**.
 
-`git clone https://github.com/danieledagostino/speaking-clock.git`
+
 
 ## Run & test
 After you downloaded the code, run it by typing
